@@ -6,7 +6,7 @@ This guide is for everyone, no prior knowledge needed. Pick your device:
 - [Linux computer](#linux)
 - [Any computer with a web browser (no installation)](#web-browser)
 
-All files are on the [Releases](https://github.com/mimiundmomotv-wq/kaleidoskop/releases) page of this repository. Under the newest release, open
+All files are on the [Releases](https://github.com/mimiundmomotv-wq/Kaleidoskop-Releases/releases) page of this repository. Under the newest release, open
 **Assets** to see the downloads. The on-screen texts of the app are in German.
 
 ---
@@ -18,7 +18,7 @@ All files are on the [Releases](https://github.com/mimiundmomotv-wq/kaleidoskop/
 > gone through Google's review, and no independent security audit has been done. It was created with
 > substantial help from an AI and is offered as it is, without any guarantee – see [LICENSE](../LICENSE).
 > Install it only if you accept that risk, and only from the
-> [Releases](https://github.com/mimiundmomotv-wq/kaleidoskop/releases) page of this repository, never from other websites.
+> [Releases](https://github.com/mimiundmomotv-wq/Kaleidoskop-Releases/releases) page of this repository, never from other websites.
 >
 > To install it, Android must be allowed to install apps from outside the Play Store ("unknown sources").
 > Allow this only for as long as you need it, and switch it off again afterwards (step 5).
@@ -27,7 +27,7 @@ All files are on the [Releases](https://github.com/mimiundmomotv-wq/kaleidoskop/
 
 ### Step 1 – Download the APK
 
-1. Open this repository's [Releases](https://github.com/mimiundmomotv-wq/kaleidoskop/releases) page **on your phone**, in a browser such as
+1. Open this repository's [Releases](https://github.com/mimiundmomotv-wq/Kaleidoskop-Releases/releases) page **on your phone**, in a browser such as
    Chrome, Firefox or Samsung Internet.
 2. Under the newest release, tap **Assets**, then tap the file ending in **`-android.apk`**
    (for example `kaleidoskop-v1.18-android.apk`).
@@ -108,7 +108,7 @@ Arch, …) and graphics with Vulkan or OpenGL 3.3 drivers – any reasonably cur
 
 ### Step 1 – Download
 
-On the [Releases](https://github.com/mimiundmomotv-wq/kaleidoskop/releases) page, under **Assets**, download the file ending in
+On the [Releases](https://github.com/mimiundmomotv-wq/Kaleidoskop-Releases/releases) page, under **Assets**, download the file ending in
 **`-linux-x86_64.tar.gz`**. It usually lands in your **Downloads** folder.
 
 ### Step 2 – Unpack and install
@@ -152,7 +152,7 @@ unpacked folder.
 
 No installation needed, on any computer with a current browser (Firefox, Chrome, Edge, Safari):
 
-1. On the [Releases](https://github.com/mimiundmomotv-wq/kaleidoskop/releases) page, under **Assets**, download the file ending in **`.html`**.
+1. On the [Releases](https://github.com/mimiundmomotv-wq/Kaleidoskop-Releases/releases) page, under **Assets**, download the file ending in **`.html`**.
 2. Open it: double-click the downloaded file, or drag it into a browser window.
 
 The browser version is simpler than the apps (no music reaction) and loads nothing from the internet.

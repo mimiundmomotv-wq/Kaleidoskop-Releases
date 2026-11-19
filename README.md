@@ -10,7 +10,7 @@ vivid colors, made for OLED screens.
 ![Classic kaleidoscope](images/classic.png)
 
 This repository contains the releases only. Download the files from the
-[Releases](https://github.com/mimiundmomotv-wq/kaleidoskop/releases) page.
+[Releases](https://github.com/mimiundmomotv-wq/Kaleidoskop-Releases/releases) page.
 
 ## Downloads
 
