@@ -1,0 +1,24 @@
+Kaleidoskop – license for the released program files
+
+Copyright (c) 2026 mimiundmomotv-wq
+
+This license covers the released program files of Kaleidoskop: the Linux programs, the Android app (APK),
+the browser version (HTML file), the glass-piece data and the accompanying documents.
+
+You may, free of charge:
+- use the program files privately and commercially, on any number of devices;
+- pass them on to others, unchanged and free of charge, together with this license and
+  THIRD-PARTY-NOTICES.md.
+
+You may not:
+- sell the program files or charge for passing them on;
+- pass on modified versions or present the program as your own work.
+
+The program files are provided "as is", without warranty of any kind. To the extent permitted by law, the
+author is not liable for any damage arising from their use.
+
+Kaleidoskop contains open-source components. Their licenses are listed in THIRD-PARTY-NOTICES.md; they take
+precedence over this license for those components.
+
+Kaleidoskop was created with substantial help from an AI assistant (Claude by Anthropic); see
+"How this was made" in README.md.
